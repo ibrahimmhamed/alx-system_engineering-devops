@@ -1,0 +1,2 @@
+#!/bin/bash
+power=$((BREATH ** LOVE)) | echo -e "$power \n"
