@@ -1,2 +1,2 @@
 #!/bin/bash
-BINARY=2 | echo -e "(($BINARY#10 \n ))"
+BINARY=2 | echo -e $(($BINARY#10))
